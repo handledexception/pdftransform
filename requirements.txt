@@ -1,0 +1,6 @@
+# Core
+pypdf
+
+# GUI preview/editor (optional at runtime; --preview explains what's missing)
+pymupdf
+PySide6-Essentials
